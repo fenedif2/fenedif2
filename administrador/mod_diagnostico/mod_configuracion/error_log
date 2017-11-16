@@ -1,0 +1,2 @@
+[21-Nov-2012 14:18:37 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/utiedu/public_html/medico/mod_configuracion/login.php on line 16
+[21-Nov-2012 14:18:49 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/utiedu/public_html/medico/mod_configuracion/login.php on line 16

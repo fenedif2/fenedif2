@@ -1,0 +1,43 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>SIMONS 2.0</title>
+<link href="index.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" >
+function valida_form(){
+var numero = document.acceso.numero.value;
+var clave = document.acceso.clave.value;
+if(numero == "" || clave == "")
+	{
+	alert("Debes introducir un código y una clave de Investigador");
+	exit;
+	}
+else
+	{
+	document.acceso.action="panel.php";
+	document.acceso.submit();
+	}
+}
+</script>
+</head>
+<body>
+<div id="header">
+</div>
+<div id="top_index">
+
+</div>
+<div id="center_index">
+<br />
+<br />
+<form name="acceso" method="post" action="javascript:valida_form()">
+<br />Código Investigador  <input type="text" maxlength="10" size="10" name="numero" /><br />
+<br />Clave   Investigador   <input type="password" maxlength="10" size="10" name="clave" /><br />
+<br /><input type="submit" value="Entrar" /><br />
+</form>
+</div>
+<div id="footer">
+SISTEMA DE INFORMACIÓN PARA MONITOREO Y GESTIÓN DE PROCESOS
+<br />
+</body>
+</html>

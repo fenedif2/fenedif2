@@ -1,0 +1,132 @@
+
+body{ 
+background-color:#dc8;
+font-size:16px; 
+margin:0; 
+padding:0; 
+border:1px solid black;
+}
+
+#header{ 
+background:#000066 url(../imgs/logo.png) no-repeat center center;
+height:140px;
+color:white;
+font-size:12px;
+}
+#header img#foto{
+padding:5px;
+border:1px solid #dc8;
+width:100px;
+height:120px;
+}
+#header img#salir{
+border:0px;
+padding:2px;
+}
+#top_index{ 
+width:100%;
+background-color:#dc8; 
+height:50px;
+text-align:center;
+font-size:12px;
+font-weight:bold;
+color:#eec;
+}
+#top{ 
+width:100%;
+background-color:#dc8; 
+height:55px;
+text-align:center;
+}
+#center_index { 
+background-color:#eec; 
+min-height:200px; /* for modern browsers */
+height:auto !important; /* for modern browsers */
+height:200px; /* for IE5.x and IE6 */
+text-align:center;
+font-size: 12px;
+}
+#center_index input{
+border:1px solid #dc8;
+}
+#center{
+background-color:#eec; 
+min-height:600px; /* for modern browsers */
+height:auto !important; /* for modern browsers */
+height:600px; /* for IE5.x and IE6 */
+font-size:12px;
+}
+#center a, a:hover, a:visited, a:active{
+color:black;
+text-decoration:none;
+}
+#center table{
+border:1px solid #d8dc9a;
+padding:2px;
+}
+#center img{
+border:0px;
+vertical-align:bottom;
+}
+#center select{
+border:1px solid #f60;
+height:18px;
+text-align:center;
+background-color:#eec;
+font-size:12px;
+}
+#footer { 
+clear:both;
+background-color:#000066;
+height:80px;
+color:white;
+font-size:12px;
+text-align:center;
+}
+#footer a, a:hover, a:visited, a:active{
+color:#f60;
+text-decoration:none;
+}
+#pd{
+font-size:12px;
+text-align:center;
+width:12%;
+margin:auto;
+padding:10px;
+border:3px solid #eec;
+background-color:#333;
+}
+#pd a{
+color:white;
+text-decoration:none;
+}
+#pd a:hover{
+color:#f60;
+}
+
+.par{
+background-color:#d8dc9a;
+}
+.encab{
+text-align:center;
+font-weight:bold;
+}
+.centrado{
+text-align:center;
+}
+.centrado2{
+text-align:center;
+width:20px;
+}
+.ver:hover{
+font-weight:bold;
+}
+.par:hover{
+background-color:#f60;
+}
+.impar:hover{
+background-color:#f60;
+}
+.naranja{
+background-color:#333;
+}

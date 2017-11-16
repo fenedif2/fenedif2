@@ -1,0 +1,222 @@
+NHC	SEXO	ESTADO CIVIL	TIPO SANGRE	PROVINCIA	CANTON	PARROQUIA	CEDULA	NOMBRES	APELLIDOS	CALLE PRINCIPAL	CALLE SECUNDARIA	NUMERO CASA	TELEFONO	CELULAR	EMAIL	FECHA NACIMIENTO	INSTITUCION
+					24 DE MAYO												
+					AGUARICO												
+					ALAUSI												
+					ALFREDO BAQUERIZO MORENO												
+					AMBATO												
+					ANTONIO ANTE												
+					ARAJUNO												
+					ARCHIDONA												
+					ARENILLAS												
+					ATACAMES												
+					ATAHUALPA												
+					AZOGUES												
+					BABA												
+					BABAHOYO												
+					BALAO												
+					BALSAS												
+					BALZAR												
+					BANOS DE AGUA SANTA												
+					BIBLIAN												
+					BOLIVAR												
+					BOLIVAR												
+					BUENA FE												
+					CALUMA												
+					CALVAS												
+					CAMILO PONCE ENRIQUEZ												
+					CANAR												
+					CARLOS JULIO AROSEMENA TOLA												
+					CASCALES												
+					CATAMAYO												
+					CAYAMBE												
+					CELICA												
+					CENTINELA DEL CONDOR												
+					CEVALLOS												
+					CHAGUARPAMBA												
+					CHAMBO												
+					CHILLA												
+					CHILLANES												
+					CHIMBO												
+					CHINCHIPE												
+					CHONE												
+					CHORDELEG												
+					CHUNCHI												
+					COLIMES												
+					COLTA												
+					CORONEL MARCELINO MARIDUENA												
+					COTACACHI												
+					CUENCA												
+					CUMANDA												
+					CUYABENO												
+					DAULE												
+					DELEG												
+					DURAN												
+					ECHEANDIA												
+					EL CARMEN												
+					EL CHACO												
+					EL EMPALME												
+					EL GUABO												
+					EL PAN												
+					EL PANGUI												
+					EL TAMBO												
+					EL TRIUNFO												
+					ELOY ALFARO												
+					ESMERALDAS												
+					ESPEJO												
+					ESPINDOLA												
+					FLAVIO ALFARO												
+					GENERAL ANTONIO ELIZALDE												
+					GIRON												
+					GONZALO PIZARRO												
+					GONZANAMA												
+					GUACHAPALA												
+					GUALACEO												
+					GUALAQUIZA												
+					GUAMOTE												
+					GUANO												
+					GUARANDA												
+					GUAYAQUIL												
+					HUAMBOYA												
+					HUAQUILLAS												
+					IBARRA												
+					ISABELA												
+					ISIDRO AYORA												
+					JAMA												
+					JARAMIJO												
+					JIPIJAPA												
+					JUNIN												
+					LA CONCORDIA												
+					LA JOYA DE LOS SACHAS												
+					LA LIBERTAD												
+					LA MANA												
+					LA TRONCAL												
+					LAGO AGRIO												
+					LAS LAJAS												
+					LAS NAVES												
+					LATACUNGA												
+					LIMON INDANZA												
+					LOGRONO												
+					LOJA												
+					LOMAS DE SARGENTILLO												
+					LORETO												
+					MACARA												
+					MACHALA												
+					MANTA												
+					MARCABELI												
+					MEJIA												
+					MERA												
+					MILAGRO												
+					MIRA												
+					MOCACHE												
+					MOCHA												
+					MONTALVO												
+					MONTECRISTI												
+					MONTUFAR												
+					MORONA												
+					MUISNE												
+					NABON												
+					NANGARITZA												
+					NARANJAL												
+					NARANJITO												
+					NOBOL												
+					OLMEDO												
+					OLMEDO												
+					ONA												
+					ORELLANA												
+					OTAVALO												
+					PABLO SEXTO												
+					PAJAN												
+					PALANDA												
+					PALENQUE												
+					PALESTINA												
+					PALLATANGA												
+					PALORA												
+					PALTAS												
+					PANGUA												
+					PAQUISHA												
+					PASAJE												
+					PASTAZA												
+					PATATE												
+					PAUTE												
+					PEDERNALES												
+					PEDRO CARBO												
+					PEDRO MONCAYO												
+					PEDRO VICENTE MALDONADO												
+					PENIPE												
+					PICHINCHA												
+					PIMAMPIRO												
+					PINAS												
+					PINDAL												
+					PLAYAS												
+					PORTOVELO												
+					PORTOVIEJO												
+					PUCARA												
+					PUEBLOVIEJO												
+					PUERTO LOPEZ												
+					PUERTO QUITO												
+					PUJILI												
+					PUTUMAYO												
+					PUYANGO												
+					QUERO												
+					QUEVEDO												
+					QUIJOS												
+					QUILANGA												
+					QUININDE												
+					QUITO												
+					RIOBAMBA												
+					RIOVERDE												
+					ROCAFUERTE												
+					RUMINAHUI												
+					SALCEDO												
+					SALINAS												
+					SALITRE (URBINA JADO)												
+					SAMBORONDON												
+					SAN CRISTOBAL												
+					SAN FERNANDO												
+					SAN JACINTO DE YAGUACHI												
+					SAN JUAN BOSCO												
+					SAN LORENZO												
+					SAN MIGUEL												
+					SAN MIGUEL DE LOS BANCOS												
+					SAN MIGUEL DE URCUQUI												
+					SAN PEDRO DE HUACA												
+					SAN PEDRO DE PELILEO												
+					SAN VICENTE												
+					SANTA ANA												
+					SANTA CLARA												
+					SANTA CRUZ												
+					SANTA ELENA												
+					SANTA ISABEL												
+					SANTA LUCIA												
+					SANTA ROSA												
+					SANTIAGO												
+					SANTIAGO DE PILLARO												
+					SANTO DOMINGO												
+					SAQUISILI												
+					SARAGURO												
+					SEVILLA DE ORO												
+					SHUSHUFINDI												
+					SIGCHOS												
+					SIGSIG												
+					SIMON BOLIVAR												
+					SOZORANGA												
+					SUCRE												
+					SUCUA												
+					SUCUMBIOS												
+					SUSCAL												
+					TAISHA												
+					TENA												
+					TISALEO												
+					TIWINTZA												
+					TOSAGUA												
+					TULCAN												
+					URDANETA												
+					VALENCIA												
+					VENTANAS												
+					VENTANAS												
+					VINCES												
+					YACUAMBI												
+					YANTZAZA												
+					ZAMORA												
+					ZAPOTILLO												
+					ZARUMA												
