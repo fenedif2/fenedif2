@@ -82,9 +82,9 @@
             }else
                 $strResultado .= '<img src="'. IMAGENES_PATH .'/incorrecto.gif" title="Error" width="16px" height="16px" /> <span class="resultadoincorrecto">Operaci&oacute;n cancelada: Ya existe informaci&oacute;n registra <br>y/o Error interno. Intente nuevamente</span>';
 
-            //$strResultado .= $ninos->getStrListar().'<br>';
+            $strResultado .= $ninos->getStrListar().'<br>';
             break;
-			/*case( $_REQUEST["btnSiguiente"] == "Siguiente" ):            
+			case( $_REQUEST["btnSiguiente"] == "Siguiente" ):            
             	$ninos->setStrCodigo($_POST["strCodigo"]);
         		$valor=$ninos->getStrBuscarr();
                	$strResultado .= '<img src="'. IMAGENES_PATH .'/correcto.gif" title="Correcto" width="17px" height="17px" /> <span class="resultadocorrecto">Informaci&oacute;n ingresada correctamente</span>';
