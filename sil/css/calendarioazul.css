@@ -59,7 +59,7 @@ div.calendar { position: relative; }
 
 .calendar thead .active { /* Active (pressed) buttons in header */
   background-color: #77c;
-  padding: 2px 0px 0px 2px;
+  padding: 2px 0px 0px 5px;/*2*/
 }
 
 /* The body part -- contains all the days in month. */
